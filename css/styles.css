@@ -1,4 +1,6 @@
-
+body{
+	padding-top: 70px;
+}
 
 /** HEADER **/
 #header-nav {	
@@ -19,7 +21,6 @@
 	color: Blue;
 }
 #header{
-	text-align: center;
 	margin-bottom: 50px;
 }
 .card-header{
